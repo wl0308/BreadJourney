@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>万圣节狂欢</string>
+		<key>detail</key>
+		<array>
+			<dict>
+				<key>imgtitle</key>
+				<string>圣淘沙名胜世界</string>
+				<key>image</key>
+				<string>rwsentosa1.jpg</string>
+				<key>detailImg</key>
+				<string>rwsentosa2.jpg</string>
+				<key>recommended_reason</key>
+				<string>最值得一去的新加坡度假圣地</string>
+				<key>descrip</key>
+				<string>新加坡的圣淘沙岛，是最值得一去的新加坡度假圣地，而岛上的圣淘沙名胜世界，更会让你的假期不再单调。圣淘沙名胜世界由云顶新加坡投资兴建，坐拥圣淘沙岛的黄金地段，是一座世界级的综合度假胜地。这里拥有东南亚首个且唯一一个环球影城主题乐园、世界最大水族馆之一且独具海上丝绸之路文化之旅的S.E.A.海洋馆、娱乐场、总客房超过1500的风格迥异的奢华酒店，多个大型会议中心，多家名厨餐厅，新加坡最大型的水疗度假村ESPA圣淘沙名胜世界及零售精品店。此外，圣淘沙名胜世界也提供多元化的娱乐节目，包括仙鹤芭蕾、梦之湖等免费公众景点。\r\n白天带着孩子去环球影城寻找变形金刚的身影，和小黄人合个影；在S.E.A.海洋馆里与海洋生物来个亲密接触，或者去海豚园里摸摸可爱的海豚。情侣们，去特丽爱3D美术馆里尽情凹造型吧。晚上女人们去舒舒服服做个水疗，男人们不妨去赌场的“小赌”一场。遍布圣淘沙名胜世界的高档食肆和酒店能让你放松全身的每一根神经。但这也并不是它的全部，每个人都能在这拥有自己的圣淘沙名胜世界奇遇记。\r\n\r\n关注官方微博@新加坡圣淘沙名胜世界/微信：圣淘沙名胜世界</string>
+				<key>address</key>
+				<string>8 Sentosa Gateway Sentosa Island Singapore 098269</string>
+				<key>arrival_type</key>
+				<string>捷运\r\n乘坐地铁到达港湾站（Harbour Front Station）下车后，从E口处进入怡丰城（Vivo City），上3层搭乘圣淘沙捷运至港湾站。捷运的运营时间为 07:00-00:00，单程票价4新元。您若是入住在圣淘沙名胜世界内的酒店，会赠送免费的捷运车票方便来往圣淘沙名胜世界。\r\n \r\n步行\r\n从怡丰城（Vivo City）的1层步行进入圣淘沙名胜世界，需要上岛费1新元。这是从新加坡本岛至圣淘沙名胜世界最经济的方式，沿途还可以欣赏风景。\r\n \r\n缆车\r\n乘坐地铁到达港湾站（Harbour Front Station）下车后，至HarbourFront Tower ll的缆车站搭乘缆车至圣淘沙岛的英比奥站（Imbiah station）。\r\n \r\n巴士\r\n在怡丰城（Vivo City）的第14141车站或在港湾Merrill Lynch的第14121车站搭乘 RWS8 巴士，在圣淘沙名胜世界下车。\r\n \r\n出租车\r\n从市中心（例如牛车水）乘坐出租车至圣淘沙名胜世界，车费大约20新币。</string>
+				<key>opening_time</key>
+				<string>周一至周日园区24小时开放（个别景点、商户开放时间可查询官网）</string>
+				<key>tel</key>
+				<string>+65-6577 8888</string>
+			</dict>
+			<dict>
+				<key>imgtitle</key>
+				<string>香港杜莎夫人蜡像馆</string>
+				<key>image</key>
+				<string>madametussauds1.jpg</string>
+				<key>detailImg</key>
+				<string>madametussauds2.jpg</string>
+				<key>recommended_reason</key>
+				<string>过百个名人的蜡像栩栩如生</string>
+				<key>descrip</key>
+				<string>登上太平山顶必须要逛一逛凌霄阁，当中最为知名的就数杜莎夫人蜡像馆了。馆内的蜡像原型有你想得到和想不到的各界名人，甚至爱因斯坦、希特勒这样的历史人物都栩栩如生地站在你眼前。当中更触动人心绪的，当是张国荣、邓丽君、梅艳芳这些陨落巨星的蜡像了。</string>
+				<key>address</key>
+				<string>香港岛山顶山顶道128号凌霄阁P101号铺</string>
+				<key>arrival_type</key>
+				<string>山顶缆车：从中环花园道的山顶缆车站，乘搭山顶缆车登山，车程约10分钟。（前往缆车站，可于中环天星码头外搭乘15C号巴士，至花园道山顶缆车站下车，车程约10分钟；或于港铁中环站J2出口，步行10至15分钟前往。）\r\n巴士：于港铁香港站D出口的中环交易广场巴士总站，搭乘15号巴士，至山顶下车，车程约35分钟。\r\n或于港铁香港站F出口的公共运输交汇处，搭乘1号绿色小巴，至山顶下车，车程约25分钟。</string>
+				<key>opening_time</key>
+				<string>周一至周日10:00-22:00（21:45停止入场）</string>
+				<key>tel</key>
+				<string>+852 28496966</string>
+			</dict>
+			<dict>
+				<key>imgtitle</key>
+				<string>奥兰多环球影城</string>
+				<key>image</key>
+				<string>universalorlando1.jpg</string>
+				<key>detailImg</key>
+				<string>universalorlando2.jpg</string>
+				<key>recommended_reason</key>
+				<string>仿真模拟电影电视中的场景，体验一回世界上唯一的翻转对称过山车“斗龙”。</string>
+				<key>descrip</key>
+				<string>游客在这座公园中，不仅可以玩惊险刺激的游乐项目，同时还能亲历了解电影片场，以及电影中特殊效果是如何拍摄出来的。在这里你可以看到恐怖片的拍摄场景，如: 雪崩断桥,山洪爆发，大白鲨, 金刚咆哮等,还可以看到电影《未来世界》，《侏儒纪公园》 和《ET》的仿真场景。栩栩如生的造型让你有一种身临其境的感觉。而在山洪暴发、飓风以及地震等模拟现场，又会有令人畏惧和神经紧张的感受。</string>
+				<key>address</key>
+				<string>1000 Universal Studios Plz, Orlando, FL 32819</string>
+				<key>arrival_type</key>
+				<string>乘坐111路公交至“Florida Mall”站下车，后转乘37路公交至“Universal Boulevard”站下车</string>
+				<key>opening_time</key>
+				<string>9:00--19:00 视季节和月份不同会适当延长或缩短开放时间</string>
+				<key>tel</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>imgtitle</key>
+				<string>明洞</string>
+				<key>image</key>
+				<string>mingdong1.jpg</string>
+				<key>detailImg</key>
+				<string>mingdong2.jpg</string>
+				<key>recommended_reason</key>
+				<string>白天逛店铺，晚上逛小摊，还有各种各样的美食</string>
+				<key>descrip</key>
+				<string>位于首尔市中心的明洞是外国游客必去的购物大街，有“韩国流行服饰中心”之称。无论室内店铺还是露天摊铺，都是游客淘宝的圣地。明洞周围不仅大型百货商场林立，在长约1公里的街道两旁也有许多品牌专卖店，女孩子们最爱的化妆品、新奇首饰、流行鞋帽等等应有尽有。另外，明洞也是各种韩式小吃汇集的地方，在逛街之余，品尝下美味的韩国料理，也是不错的选择。</string>
+				<key>address</key>
+				<string>首尔市中区</string>
+				<key>arrival_type</key>
+				<string>乘地铁至明洞站下</string>
+				<key>opening_time</key>
+				<string>全天</string>
+				<key>tel</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
